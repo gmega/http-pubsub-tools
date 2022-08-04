@@ -1,0 +1,7 @@
+# Standard Python ignores
+*pyc
+.pytest_cache
+.mypy_cache
+
+# Dev tools
+.idea
