@@ -8,7 +8,7 @@ Utilities for consuming PubSub messages from Cloud Run and Cloud Function HTTP h
 This will install the latest version:
 
 ```{sh}
-pip install https://github.com/gmega/http_pubsub_tools
+pip install git+https://github.com/gmega/http_pubsub_tools
 ```
 
 ## Running Tests
